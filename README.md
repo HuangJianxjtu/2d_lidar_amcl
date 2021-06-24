@@ -4,7 +4,7 @@ ROS的AMCL源码
 
 ## 0.dependencies
 
-[raybot_gazebo](https://github.com/HuangJianxjtu/raybot_gazebo), amcl
+[raybot_simu](https://github.com/HuangJianxjtu/raybot_gazebo), amcl
 
 ## 1.How to use
 
